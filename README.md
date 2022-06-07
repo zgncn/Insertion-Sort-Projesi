@@ -1,5 +1,6 @@
 # Insertion-Sort-Projesi
 Veri Yapıları ve Algoritmalar > Insertion Sort Projesi
+Patika.dev profilim -> https://app.patika.dev/zgncn
 
 Soru 1 Cevabı
 
